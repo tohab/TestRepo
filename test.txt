@@ -1,1 +1,9 @@
-hello shaurya this is our file that we want to get on your laptop
+the steps:
+git init
+git remote add origin <weblink>
+make the file
+git add <filename>
+git commit -m "message>
+git push origin master
+
+rohan has addded this, ti's not on shaurya's computer yet
